@@ -1,0 +1,3905 @@
+[
+  {
+    "tipo": "conta",
+    "reduzido": "107878",
+    "conta": "1",
+    "descricao": "ATIVO",
+    "saldo_anterior": "139.951.250,07",
+    "valor_debito": "32.923.663,29",
+    "valor_credito": "42.099.825,80",
+    "saldo_atual": "130.775.087,56"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107879",
+    "conta": "1.1",
+    "descricao": "CIRCULANTE",
+    "saldo_anterior": "23.032.823,26",
+    "valor_debito": "32.094.337,62",
+    "valor_credito": "32.228.468,66",
+    "saldo_atual": "22.898.692,22"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107882",
+    "conta": "1.1.1",
+    "descricao": "CAIXA E EQUIVALENTE DE CAIXA",
+    "saldo_anterior": "21.441.379,88",
+    "valor_debito": "31.425.412,48",
+    "valor_credito": "31.421.879,40",
+    "saldo_atual": "21.444.912,96"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107891",
+    "conta": "1.1.1.02",
+    "descricao": "CAIXA E EQUIVALENTE DE CAIXA - COM RESTRICAO",
+    "saldo_anterior": "21.441.379,88",
+    "valor_debito": "31.425.412,48",
+    "valor_credito": "31.421.879,40",
+    "saldo_atual": "21.444.912,96"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107907",
+    "conta": "1.1.1.02.01",
+    "descricao": "FUNDO FIXO",
+    "saldo_anterior": "2.500,00",
+    "valor_debito": "2.085,60",
+    "valor_credito": "2.085,60",
+    "saldo_atual": "2.500,00"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107608",
+    "conta": "1.1.1.02.01.001",
+    "descricao": "FUNDO FIXO HMI",
+    "saldo_anterior": "2.500,00",
+    "valor_debito": "2.085,60",
+    "valor_credito": "2.085,60",
+    "saldo_atual": "2.500,00"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107908",
+    "conta": "1.1.1.02.02",
+    "descricao": "BANCOS CONTA MOVIMENTO",
+    "saldo_anterior": "0,00",
+    "valor_debito": "20.652.469,96",
+    "valor_credito": "20.652.469,96",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "109262",
+    "conta": "1.1.1.02.02.001",
+    "descricao": "BANCO CEF. AG 12 575681361-2 CUSTEIO",
+    "saldo_anterior": "0,00",
+    "valor_debito": "20.047.385,77",
+    "valor_credito": "20.047.385,77",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "109263",
+    "conta": "1.1.1.02.02.002",
+    "descricao": "BANCO CEF. AG 12 575681183-0 INVESTIMENTO",
+    "saldo_anterior": "0,00",
+    "valor_debito": "97.311,70",
+    "valor_credito": "97.311,70",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "109264",
+    "conta": "1.1.1.02.02.003",
+    "descricao": "BANCO CEF. AG 12 575681131-8 F. R. TRABALHISTA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "507.772,49",
+    "valor_credito": "507.772,49",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107909",
+    "conta": "1.1.1.02.04",
+    "descricao": "APLICACOES FINANCEIRAS",
+    "saldo_anterior": "21.438.879,88",
+    "valor_debito": "10.770.856,92",
+    "valor_credito": "10.767.323,84",
+    "saldo_atual": "21.442.412,96"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "109267",
+    "conta": "1.1.1.02.04.001",
+    "descricao": "BANCO CEF. AG 12 575681361-2 CUSTEIO",
+    "saldo_anterior": "18.256.073,54",
+    "valor_debito": "10.237.654,31",
+    "valor_credito": "10.658.650,83",
+    "saldo_atual": "17.835.077,02"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "109268",
+    "conta": "1.1.1.02.04.002",
+    "descricao": "BANCO CEF. AG 12 575681183-0 INVESTIMENTO",
+    "saldo_anterior": "396.406,97",
+    "valor_debito": "42.099,73",
+    "valor_credito": "59.493,45",
+    "saldo_atual": "379.013,25"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "109269",
+    "conta": "1.1.1.02.04.003",
+    "descricao": "BANCO CEF. AG 12 575681131-8 F. R. TRABALHISTA",
+    "saldo_anterior": "2.786.399,37",
+    "valor_debito": "491.102,88",
+    "valor_credito": "49.179,56",
+    "saldo_atual": "3.228.322,69"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107883",
+    "conta": "1.1.2",
+    "descricao": "CREDITOS",
+    "saldo_anterior": "38.030,45",
+    "valor_debito": "79.304,43",
+    "valor_credito": "92.714,43",
+    "saldo_atual": "24.620,45"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107893",
+    "conta": "1.1.2.02",
+    "descricao": "CREDITOS COM RESTRICAO",
+    "saldo_anterior": "38.030,45",
+    "valor_debito": "79.304,43",
+    "valor_credito": "92.714,43",
+    "saldo_atual": "24.620,45"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107636",
+    "conta": "1.1.2.02.06",
+    "descricao": "ADIANTAMENTOS A COLABORADORES",
+    "saldo_anterior": "2.808,40",
+    "valor_debito": "79.304,43",
+    "valor_credito": "79.304,43",
+    "saldo_atual": "2.808,40"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107531",
+    "conta": "1.1.2.02.06.003",
+    "descricao": "ADIANTAMENTO SALARIO",
+    "saldo_anterior": "0,00",
+    "valor_debito": "79.304,43",
+    "valor_credito": "79.304,43",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107532",
+    "conta": "1.1.2.02.06.004",
+    "descricao": "ADIANTAMENTO PARA VIAGEM",
+    "saldo_anterior": "2.808,40",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "2.808,40"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107637",
+    "conta": "1.1.2.02.08",
+    "descricao": "ADIANTAMENTOS A FORNECEDORES",
+    "saldo_anterior": "35.222,05",
+    "valor_debito": "0,00",
+    "valor_credito": "13.410,00",
+    "saldo_atual": "21.812,05"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107519",
+    "conta": "1.1.2.02.08.001",
+    "descricao": "ADIANTAMENTO FORNECEDOR",
+    "saldo_anterior": "35.222,05",
+    "valor_debito": "0,00",
+    "valor_credito": "13.410,00",
+    "saldo_atual": "21.812,05"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107884",
+    "conta": "1.1.5",
+    "descricao": "ESTOQUES",
+    "saldo_anterior": "1.553.412,93",
+    "valor_debito": "589.620,71",
+    "valor_credito": "713.874,83",
+    "saldo_atual": "1.429.158,81"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107895",
+    "conta": "1.1.5.02",
+    "descricao": "ESTOQUE COM RESTRICAO",
+    "saldo_anterior": "1.553.412,93",
+    "valor_debito": "589.620,71",
+    "valor_credito": "713.874,83",
+    "saldo_atual": "1.429.158,81"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107641",
+    "conta": "1.1.5.02.01",
+    "descricao": "ESTOQUE CONTATO DE GESTAO",
+    "saldo_anterior": "1.521.903,18",
+    "valor_debito": "572.356,77",
+    "valor_credito": "687.652,65",
+    "saldo_atual": "1.406.607,30"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107535",
+    "conta": "1.1.5.02.01.001",
+    "descricao": "MEDICAMENTOS E MEDIC. DE NUTRIÇÃO PARENTERAIS",
+    "saldo_anterior": "473.775,72",
+    "valor_debito": "231.227,49",
+    "valor_credito": "295.410,11",
+    "saldo_atual": "409.593,10"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107536",
+    "conta": "1.1.5.02.01.002",
+    "descricao": "MATERIAL APLICADO (MATERIAL HOSPITALAR)",
+    "saldo_anterior": "592.566,02",
+    "valor_debito": "235.208,13",
+    "valor_credito": "250.370,79",
+    "saldo_atual": "577.403,36"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107538",
+    "conta": "1.1.5.02.01.004",
+    "descricao": "ORTESES E PROTESES",
+    "saldo_anterior": "1.396,19",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "1.396,19"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107539",
+    "conta": "1.1.5.02.01.005",
+    "descricao": "GENEROS ALIMENTÍCIOS (DIETAS ENTERAIS)",
+    "saldo_anterior": "97.317,20",
+    "valor_debito": "29.196,44",
+    "valor_credito": "35.598,35",
+    "saldo_atual": "90.915,29"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107540",
+    "conta": "1.1.5.02.01.006",
+    "descricao": "MATERIAIS DE EXPEDIENTE",
+    "saldo_anterior": "99.744,19",
+    "valor_debito": "37.860,98",
+    "valor_credito": "62.355,20",
+    "saldo_atual": "75.249,97"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107541",
+    "conta": "1.1.5.02.01.007",
+    "descricao": "MATERIAIS DE LIMPEZA",
+    "saldo_anterior": "93.385,22",
+    "valor_debito": "26.955,30",
+    "valor_credito": "33.778,42",
+    "saldo_atual": "86.562,10"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107544",
+    "conta": "1.1.5.02.01.010",
+    "descricao": "MATERIAIS DE MANUTENÇÃO",
+    "saldo_anterior": "163.718,64",
+    "valor_debito": "11.908,43",
+    "valor_credito": "10.139,78",
+    "saldo_atual": "165.487,29"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "109290",
+    "conta": "1.1.5.02.02",
+    "descricao": "EMPRÉSTIMOS REALIZADOS",
+    "saldo_anterior": "31.509,75",
+    "valor_debito": "17.263,94",
+    "valor_credito": "26.222,18",
+    "saldo_atual": "22.551,51"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "109291",
+    "conta": "1.1.5.02.02.001",
+    "descricao": "EMPRÉSTIMOS COM ESTOQUE CONCEDIDO",
+    "saldo_anterior": "31.509,75",
+    "valor_debito": "17.263,94",
+    "valor_credito": "26.222,18",
+    "saldo_atual": "22.551,51"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107881",
+    "conta": "1.9",
+    "descricao": "ATIVO COMPENSADO",
+    "saldo_anterior": "116.918.426,81",
+    "valor_debito": "829.325,67",
+    "valor_credito": "9.871.357,14",
+    "saldo_atual": "107.876.395,34"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107889",
+    "conta": "1.9.1",
+    "descricao": "ATIVO COMPENSADO",
+    "saldo_anterior": "116.918.426,81",
+    "valor_debito": "829.325,67",
+    "valor_credito": "9.871.357,14",
+    "saldo_atual": "107.876.395,34"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107905",
+    "conta": "1.9.1.02",
+    "descricao": "ATIVO COMPENSADO COM RESTRICAO",
+    "saldo_anterior": "116.918.426,81",
+    "valor_debito": "829.325,67",
+    "valor_credito": "9.871.357,14",
+    "saldo_atual": "107.876.395,34"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107651",
+    "conta": "1.9.1.02.01",
+    "descricao": "CONTRATO DE GESTÃO",
+    "saldo_anterior": "98.581.652,78",
+    "valor_debito": "37.818,25",
+    "valor_credito": "9.835.909,58",
+    "saldo_atual": "88.783.561,45"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107562",
+    "conta": "1.9.1.02.01.001",
+    "descricao": "CONTRATO DE GESTÃO",
+    "saldo_anterior": "98.581.652,78",
+    "valor_debito": "37.818,25",
+    "valor_credito": "9.835.909,58",
+    "saldo_atual": "88.783.561,45"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107652",
+    "conta": "1.9.1.02.02",
+    "descricao": "BENS CEDIDOS",
+    "saldo_anterior": "12.792.082,47",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "12.792.082,47"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107563",
+    "conta": "1.9.1.02.02.001",
+    "descricao": "BENS CEDIDOS",
+    "saldo_anterior": "12.792.082,47",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "12.792.082,47"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107653",
+    "conta": "1.9.1.02.03",
+    "descricao": "BENS ADQUIRIDOS COM REC. CONTRATO DE GESTAO",
+    "saldo_anterior": "47.620,56",
+    "valor_debito": "101.920,69",
+    "valor_credito": "35.447,56",
+    "saldo_atual": "114.093,69"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107564",
+    "conta": "1.9.1.02.03.001",
+    "descricao": "BENS ADQUIRIDOS C/ REC. CONTRATO DE GESTAO",
+    "saldo_anterior": "47.620,56",
+    "valor_debito": "0,00",
+    "valor_credito": "35.447,56",
+    "saldo_atual": "12.173,00"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "110935",
+    "conta": "1.9.1.02.03.006",
+    "descricao": "BENFEITORIAS EM IMÓVEIS (REFORMA E AMPLIAÇÃO)",
+    "saldo_anterior": "0,00",
+    "valor_debito": "101.920,69",
+    "valor_credito": "0,00",
+    "saldo_atual": "101.920,69"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "109292",
+    "conta": "1.9.1.02.05",
+    "descricao": "ISENÇÕES CEBAS",
+    "saldo_anterior": "5.497.071,00",
+    "valor_debito": "689.586,73",
+    "valor_credito": "0,00",
+    "saldo_atual": "6.186.657,73"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "109293",
+    "conta": "1.9.1.02.05.001",
+    "descricao": "ISENÇÃO DE QUOTA PATRONAL",
+    "saldo_anterior": "4.089.706,49",
+    "valor_debito": "512.121,11",
+    "valor_credito": "0,00",
+    "saldo_atual": "4.601.827,60"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "109294",
+    "conta": "1.9.1.02.05.002",
+    "descricao": "ISENÇÃO DO RAT",
+    "saldo_anterior": "204.485,38",
+    "valor_debito": "25.606,72",
+    "valor_credito": "0,00",
+    "saldo_atual": "230.092,10"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "109295",
+    "conta": "1.9.1.02.05.003",
+    "descricao": "ISENÇÃO DE CONTRIBUIÇÕES OUTRAS ENTIDADES",
+    "saldo_anterior": "1.202.879,13",
+    "valor_debito": "151.858,90",
+    "valor_credito": "0,00",
+    "saldo_atual": "1.354.738,03"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107688",
+    "conta": "2",
+    "descricao": "PASSIVO",
+    "saldo_anterior": "139.951.250,07",
+    "valor_debito": "48.986.853,08",
+    "valor_credito": "39.810.690,57",
+    "saldo_atual": "130.775.087,56"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107689",
+    "conta": "2.1",
+    "descricao": "PASSIVO CIRCULANTE",
+    "saldo_anterior": "23.032.823,26",
+    "valor_debito": "39.115.495,94",
+    "valor_credito": "38.981.364,90",
+    "saldo_atual": "22.898.692,22"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107693",
+    "conta": "2.1.1",
+    "descricao": "PASSIVO CIRCULANTE",
+    "saldo_anterior": "23.032.823,26",
+    "valor_debito": "39.115.495,94",
+    "valor_credito": "38.981.364,90",
+    "saldo_atual": "22.898.692,22"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107698",
+    "conta": "2.1.1.02",
+    "descricao": "PASSIVO CIRCULANTE COM RESTRICAO",
+    "saldo_anterior": "23.032.823,26",
+    "valor_debito": "39.115.495,94",
+    "valor_credito": "38.981.364,90",
+    "saldo_atual": "22.898.692,22"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107713",
+    "conta": "2.1.1.02.01",
+    "descricao": "FORNECEDORES",
+    "saldo_anterior": "2.538.674,08",
+    "valor_debito": "7.143.471,58",
+    "valor_credito": "6.421.263,27",
+    "saldo_atual": "1.816.465,77"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107567",
+    "conta": "2.1.1.02.01.001",
+    "descricao": "FORNECEDORES DE INSUMOS",
+    "saldo_anterior": "564.991,14",
+    "valor_debito": "589.202,89",
+    "valor_credito": "469.185,24",
+    "saldo_atual": "444.973,49"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "316",
+    "descricao": "INOVACAO SERVICOS E COM. DE PRODUTOS",
+    "saldo_anterior": "33.180,00",
+    "valor_debito": "30.900,00",
+    "valor_credito": "40.350,00",
+    "saldo_atual": "42.630,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "1020",
+    "descricao": "CEI COMERCIO EXPORTACAO E IMP DE MAT MEDICOS",
+    "saldo_anterior": "17.910,00",
+    "valor_debito": "17.910,00",
+    "valor_credito": "41.779,00",
+    "saldo_atual": "41.779,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "1484",
+    "descricao": "CIRURGICA FERNANDES - COMERCIO DE MATERIAIS",
+    "saldo_anterior": "20.911,74",
+    "valor_debito": "20.911,75",
+    "valor_credito": "0,00",
+    "saldo_atual": "-0,01"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "1597",
+    "descricao": "HTS - TECNOLOGIA EM SAUDE COMERCIO IMPORTACAO E",
+    "saldo_anterior": "5.700,00",
+    "valor_debito": "5.700,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "4695",
+    "descricao": "HOSPDROGAS COMERCIAL LTDA",
+    "saldo_anterior": "8.871,53",
+    "valor_debito": "8.871,53",
+    "valor_credito": "20.402,34",
+    "saldo_atual": "20.402,34"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "5328",
+    "descricao": "CIENTIFICA MEDICA HOSPITAL LTDA",
+    "saldo_anterior": "5.908,88",
+    "valor_debito": "5.932,88",
+    "valor_credito": "10.788,50",
+    "saldo_atual": "10.764,50"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "5409",
+    "descricao": "EFICAZ EPI COMERCIO E REPRESENTACOES LTDA",
+    "saldo_anterior": "1.202,60",
+    "valor_debito": "1.202,60",
+    "valor_credito": "1.088,00",
+    "saldo_atual": "1.088,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "6703",
+    "descricao": "DISTRIBUIDORA BRASIL COML DE PRODUTOS MEDICOS",
+    "saldo_anterior": "1.084,52",
+    "valor_debito": "1.084,52",
+    "valor_credito": "501,44",
+    "saldo_atual": "501,44"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "7512",
+    "descricao": "VIA NUT NUTRICAO CLINICA E PRODUTOS HOSPITALARES",
+    "saldo_anterior": "10.115,80",
+    "valor_debito": "10.115,80",
+    "valor_credito": "6.542,92",
+    "saldo_atual": "6.542,92"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "7976",
+    "descricao": "NL PRODUTOS HOSPITALARES LTDA",
+    "saldo_anterior": "6.291,50",
+    "valor_debito": "6.291,50",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "9192",
+    "descricao": "MAEVE PRODUTOS HOSPITALARES LTDA",
+    "saldo_anterior": "7.623,28",
+    "valor_debito": "7.623,28",
+    "valor_credito": "7.813,99",
+    "saldo_atual": "7.813,99"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "11410",
+    "descricao": "LOGMED DISTRIBUIDORA E LOGISTICA HOSPITALAR LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "12404",
+    "descricao": "ELLO DISTRIBUICAO LTDA",
+    "saldo_anterior": "29.528,36",
+    "valor_debito": "31.138,36",
+    "valor_credito": "27.666,10",
+    "saldo_atual": "26.056,10"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "12538",
+    "descricao": "PAPELARIA TRIBUTARIA LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "2.250,72",
+    "saldo_atual": "2.250,72"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "14467",
+    "descricao": "IMPERIAL COMERCIO DE PRODUTOS HOSPITALARES LTDA",
+    "saldo_anterior": "1.875,00",
+    "valor_debito": "1.875,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "15831",
+    "descricao": "CENTRO OESTE COMERCIO E SERVICOS LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "16549",
+    "descricao": "GLEIDSON RODRIGUES RANULFO LTDA",
+    "saldo_anterior": "210,00",
+    "valor_debito": "210,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "16775",
+    "descricao": "VITALMED INDUSTRIA E COMERCIO LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "16779",
+    "descricao": "FARMA VISION IMPORTACAO E EXPORTACAO DE",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "17069",
+    "descricao": "SUPERMEDICA DISTRIBUIDORA HOSPITALAR LTDA",
+    "saldo_anterior": "14.826,45",
+    "valor_debito": "14.826,39",
+    "valor_credito": "13.910,26",
+    "saldo_atual": "13.910,32"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "17981",
+    "descricao": "M P COMERCIO E INDUSTRIA DE MATERIAIS",
+    "saldo_anterior": "2.690,00",
+    "valor_debito": "2.690,00",
+    "valor_credito": "1.440,00",
+    "saldo_atual": "1.440,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "18209",
+    "descricao": "ONCOVIT DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "18230",
+    "descricao": "COMERCIAL ALVORADA LIMPEZA DESC LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "18285",
+    "descricao": "DMI MATERIAL MEDICO HOSPITALAR LTDA",
+    "saldo_anterior": "6.668,64",
+    "valor_debito": "6.668,64",
+    "valor_credito": "8.829,55",
+    "saldo_atual": "8.829,55"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "19436",
+    "descricao": "COMERCIAL CIRURGICA RIOCLARENSE LTDA",
+    "saldo_anterior": "63.638,66",
+    "valor_debito": "63.638,66",
+    "valor_credito": "17.452,57",
+    "saldo_atual": "17.452,57"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "19470",
+    "descricao": "SUPERMED COMERCIO E IMPORTACAO DE PRODUTOS",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "20478",
+    "descricao": "TECNOPRINT IMPRESSOS TECNICOS LTDA",
+    "saldo_anterior": "720,00",
+    "valor_debito": "720,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "20971",
+    "descricao": "HOSP LIGHT - MAT HOSP E ELET ESP LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "21186",
+    "descricao": "INJEMED MEDICAMENTOS ESPECIAIS LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "22221",
+    "descricao": "FARMATER MEDICAMENTOS LTDA",
+    "saldo_anterior": "1.291,56",
+    "valor_debito": "1.291,56",
+    "valor_credito": "1.000,71",
+    "saldo_atual": "1.000,71"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "22942",
+    "descricao": "CIRURGICA PINHEIRO LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "9.040,00",
+    "saldo_atual": "9.040,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "23316",
+    "descricao": "AMERICA COMERCIAL E SERVICOS",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "23356",
+    "descricao": "KONIMAGEM COMERCIAL LTDA",
+    "saldo_anterior": "2.052,00",
+    "valor_debito": "2.052,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "23656",
+    "descricao": "PAPELARIA SHALON EIRELI",
+    "saldo_anterior": "1.973,61",
+    "valor_debito": "1.973,61",
+    "valor_credito": "2.231,66",
+    "saldo_atual": "2.231,66"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "31566",
+    "descricao": "VIVA FARMACEUTICA SA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "31833",
+    "descricao": "BEE COMERCIO DE PRODUTOS E EQUIPAMENTOS LTDA",
+    "saldo_anterior": "10.499,18",
+    "valor_debito": "10.499,18",
+    "valor_credito": "9.734,22",
+    "saldo_atual": "9.734,22"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "32343",
+    "descricao": "SUPERMED COMERCIO E IMPORTACAO DE PRODUTOS",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "34693",
+    "descricao": "FUTURA COMERCIO DE PRODUTOS MEDICOS E",
+    "saldo_anterior": "8.994,80",
+    "valor_debito": "8.994,79",
+    "valor_credito": "5.757,48",
+    "saldo_atual": "5.757,49"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "36336",
+    "descricao": "HOSPMED COMERCIO DE PRODUTOS HOSPITALARES LTDA",
+    "saldo_anterior": "1.644,00",
+    "valor_debito": "1.644,00",
+    "valor_credito": "840,00",
+    "saldo_atual": "840,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "36693",
+    "descricao": "MEDILAR IMPORTACAO E DISTRIBUICAO DE PRODUTOS",
+    "saldo_anterior": "70.506,15",
+    "valor_debito": "70.506,15",
+    "valor_credito": "54.206,00",
+    "saldo_atual": "54.206,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "37280",
+    "descricao": "R2 COMERCIO E SERVICOS EIRELI",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "41284",
+    "descricao": "LUNAX COMERCIO DE PRODUTOS EM SAUDE LTDA",
+    "saldo_anterior": "7.406,30",
+    "valor_debito": "7.406,30",
+    "valor_credito": "19.318,00",
+    "saldo_atual": "19.318,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "41581",
+    "descricao": "HIPROMED-MORIAH COMERCIO, IMPORTACAO E SERVICOS",
+    "saldo_anterior": "0,00",
+    "valor_debito": "2.550,00",
+    "valor_credito": "2.828,00",
+    "saldo_atual": "278,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "48222",
+    "descricao": "CIRURGICA GOIANIA LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "48914",
+    "descricao": "VFB BRASIL LTDA",
+    "saldo_anterior": "47.767,73",
+    "valor_debito": "47.767,73",
+    "valor_credito": "13.787,33",
+    "saldo_atual": "13.787,33"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "60684",
+    "descricao": "SANTE MEDICA HOSPITALAR LTDA",
+    "saldo_anterior": "5.671,27",
+    "valor_debito": "5.671,30",
+    "valor_credito": "10.188,78",
+    "saldo_atual": "10.188,75"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "65049",
+    "descricao": "BIO INFINITY COMERCIO HOSPITALAR E LOCACAO LTDA",
+    "saldo_anterior": "1.175,00",
+    "valor_debito": "1.175,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "68075",
+    "descricao": "BF DE ANDRADE HOSPITALAR LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "71407",
+    "descricao": "KAIROS HOSPITALAR DISTRIBUIDORA DE MEDICAMENTOS",
+    "saldo_anterior": "4.315,80",
+    "valor_debito": "4.315,80",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "71555",
+    "descricao": "LUDAN INDUSTRIA E COMERCIO EIRELI",
+    "saldo_anterior": "1.232,50",
+    "valor_debito": "1.232,50",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "78493",
+    "descricao": "SEMPRE HOSPITALAR LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "78547",
+    "descricao": "MPM INDUSTRIA E COMERCIO DE PLASTICOS LTDA",
+    "saldo_anterior": "5.250,33",
+    "valor_debito": "5.250,33",
+    "valor_credito": "2.812,93",
+    "saldo_atual": "2.812,93"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "85347",
+    "descricao": "SAMED - MANUT DE EQUIP MEDICO-HOSPITALARES LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "87275",
+    "descricao": "ATIVA COMERCIAL HOSPITALAR LTDA",
+    "saldo_anterior": "24.372,96",
+    "valor_debito": "24.372,96",
+    "valor_credito": "8.027,90",
+    "saldo_atual": "8.027,90"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "87894",
+    "descricao": "BENENUTRI COMERCIAL LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "94863",
+    "descricao": "PULIRE VILA COMERCIO DE DESCARTAVEIS LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "95919",
+    "descricao": "F & F DISTRIBUIDORA DE PRODUTOS FARMACEUTICOS",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "10.173,10",
+    "saldo_atual": "10.173,10"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "100540",
+    "descricao": "EXITO MEDICAMENTOS EIRELI",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "102165",
+    "descricao": "SYMEX PRODUTOS MEDICOS HOSPITALARES LTDA",
+    "saldo_anterior": "734,00",
+    "valor_debito": "734,00",
+    "valor_credito": "631,96",
+    "saldo_atual": "631,96"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "103524",
+    "descricao": "ENBEX HOSPITALAR LTDA",
+    "saldo_anterior": "5.364,60",
+    "valor_debito": "5.364,60",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "113671",
+    "descricao": "CIRURGICA AL-STYN LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "115090",
+    "descricao": "TECHMED LOCACAO DE EQUIPAMENTOS HOSPITALARES",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "9.202,27",
+    "saldo_atual": "9.202,27"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "120727",
+    "descricao": "PRESTAMED HOSPITALAR LTDA",
+    "saldo_anterior": "717,90",
+    "valor_debito": "717,90",
+    "valor_credito": "832,72",
+    "saldo_atual": "832,72"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "124103",
+    "descricao": "HBL FARMA DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "126309",
+    "descricao": "SULMEDIC COMERCIO DE MEDICAMENTOS LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "1.322,50",
+    "saldo_atual": "1.322,50"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "127125",
+    "descricao": "COMERCIAL ALVORADA DE PRODUTOS PARA LIMPEZA E",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "131219",
+    "descricao": "QB COMERCIO LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "133786",
+    "descricao": "ONCOVIT DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "136441",
+    "descricao": "CRISTÁLIA PRODUTOS QUIMICOS FARMACEUTICOS LTDA",
+    "saldo_anterior": "11.139,30",
+    "valor_debito": "11.139,30",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "139863",
+    "descricao": "CITOPHARMA MANIPULACAO DE MEDICAMENTOS",
+    "saldo_anterior": "244,10",
+    "valor_debito": "244,10",
+    "valor_credito": "2.526,20",
+    "saldo_atual": "2.526,20"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "144893",
+    "descricao": "TOLESUL DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "146957",
+    "descricao": "NEGUEV COMERCIAL E SERVICOS LTDA",
+    "saldo_anterior": "0,15",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,15"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "148293",
+    "descricao": "REVAL ATACADO DE PAPELARIA LTDA",
+    "saldo_anterior": "914,79",
+    "valor_debito": "914,79",
+    "valor_credito": "1.413,00",
+    "saldo_atual": "1.413,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "151037",
+    "descricao": "RD HOSPITALAR LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "1.140,00",
+    "saldo_atual": "1.140,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "151498",
+    "descricao": "MEDILAR IMP E DIST",
+    "saldo_anterior": "21.698,60",
+    "valor_debito": "21.698,60",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "152756",
+    "descricao": "SOMAMG PRODUTOS HOSPITALARES LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "153588",
+    "descricao": "HDL LOGISTICA HOSPITALAR LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "2.600,00",
+    "saldo_atual": "2.600,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "154975",
+    "descricao": "FUNDACAO DE APOIO A PESQUISA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "159110",
+    "descricao": "DISTRIBUIDORA VL FARM LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "161609",
+    "descricao": "CRECIIL COMERCIAL FARMA HOSPITALAR LTDA",
+    "saldo_anterior": "2.398,00",
+    "valor_debito": "2.398,00",
+    "valor_credito": "777,20",
+    "saldo_atual": "777,20"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "162706",
+    "descricao": "IMPERIAL PRODUTOS E SERVICOS LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "163876",
+    "descricao": "E M DA SILVA CARNEIRO EIRELI",
+    "saldo_anterior": "0,00",
+    "valor_debito": "26.820,00",
+    "valor_credito": "26.820,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "166262",
+    "descricao": "CIMB CONSTRUCOES E COMERCIO LTDA",
+    "saldo_anterior": "14.754,59",
+    "valor_debito": "14.814,55",
+    "valor_credito": "60,00",
+    "saldo_atual": "0,04"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "166568",
+    "descricao": "SBMED EQUIPAMENTOS E MATERIAIS MEDICOS E",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "167737",
+    "descricao": "EMBALART DISTRIBUIDORA DE EMBALAGENS LTDA",
+    "saldo_anterior": "3.121,20",
+    "valor_debito": "4.823,20",
+    "valor_credito": "2.790,00",
+    "saldo_atual": "1.088,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "171271",
+    "descricao": "PRINT SERVICES",
+    "saldo_anterior": "6.274,03",
+    "valor_debito": "0,00",
+    "valor_credito": "9.495,00",
+    "saldo_atual": "15.769,03"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "172122",
+    "descricao": "EXTREMA IMPORTAÇÃO E DISTRIBUIÇÃO DE PRODUTOS",
+    "saldo_anterior": "239,00",
+    "valor_debito": "239,00",
+    "valor_credito": "298,40",
+    "saldo_atual": "298,40"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "172368",
+    "descricao": "SJ DISTRIBUIDORA DE MATERIAIS HOSPITALARES LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "172468",
+    "descricao": "VENTURE INDUSTRIA E COMERCIO LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "173835",
+    "descricao": "JAQUELINE HONORATO BORGES",
+    "saldo_anterior": "2.725,29",
+    "valor_debito": "2.725,29",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "174877",
+    "descricao": "OMNIELMASTER HEMOMED REPRESENTACAO, COMERCIO",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "176143",
+    "descricao": "BLACKOUT PAINEIS",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "180002",
+    "descricao": "LUMA COMERCIO E SERVICOS LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "185295",
+    "descricao": "LIKE FARMA LOGISTICA CERTA COMERCIO E",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "185923",
+    "descricao": "ACE DISTRIBUIDORA LTDA",
+    "saldo_anterior": "21.861,37",
+    "valor_debito": "21.861,37",
+    "valor_credito": "28.578,17",
+    "saldo_atual": "28.578,17"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "187305",
+    "descricao": "X3 MED DISTRIBUIDORA LTDA",
+    "saldo_anterior": "161,28",
+    "valor_debito": "161,28",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "190165",
+    "descricao": "HOSPDROGAS COMERCIAL LTDA",
+    "saldo_anterior": "950,40",
+    "valor_debito": "950,40",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "191318",
+    "descricao": "UNILIMP - DISTRIBUIDORA DE PRODUTOS DE LIMPEZA",
+    "saldo_anterior": "1.566,00",
+    "valor_debito": "1.566,00",
+    "valor_credito": "902,50",
+    "saldo_atual": "902,50"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "191987",
+    "descricao": "F & F DISTRIBUIDORA DE PRODUTOS FARMACEUTICOS",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "192707",
+    "descricao": "AGLMED PRODUTOS E EQUIPÁMENTOS HOSPITALARES",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "3.957,80",
+    "saldo_atual": "3.957,80"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "193758",
+    "descricao": "COMERCIAL RC PRODUTOS HOSPITALARES LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "200436",
+    "descricao": "ONCOVIT DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "200494",
+    "descricao": "WORLDMED - EQUIPAMENTOS MEDICOS LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "5.444,46",
+    "saldo_atual": "5.444,46"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "202053",
+    "descricao": "CAVERAO O MELHOR EM DISTRIBUICAO LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "203407",
+    "descricao": "COMERCIAL ALVORADA DE PRODUTOS PARA LIMPEZA E",
+    "saldo_anterior": "33.819,89",
+    "valor_debito": "33.819,89",
+    "valor_credito": "19.631,56",
+    "saldo_atual": "19.631,56"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "205337",
+    "descricao": "APICE HEALTHCARE EQUIPAMENTO",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "208901",
+    "descricao": "DUTRAMED DISTRIBUIDORA HOSPITALAR LTDA",
+    "saldo_anterior": "3.196,50",
+    "valor_debito": "3.196,50",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107568",
+    "conta": "2.1.1.02.01.002",
+    "descricao": "FORNECEDORES DE SERVIÇOS MEDICOS",
+    "saldo_anterior": "627.839,99",
+    "valor_debito": "4.358.623,68",
+    "valor_credito": "4.358.491,43",
+    "saldo_atual": "627.707,74"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "12637",
+    "descricao": "CLINICA INFANTO JUVENIL DO JARDIM AMERIC",
+    "saldo_anterior": "9.553,50",
+    "valor_debito": "9.553,50",
+    "valor_credito": "14.861,00",
+    "saldo_atual": "14.861,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "15749",
+    "descricao": "MEDICOS CIRURGIOES PEDIATRICOS DE GOIAS LTDA",
+    "saldo_anterior": "126.934,00",
+    "valor_debito": "126.934,00",
+    "valor_credito": "138.160,00",
+    "saldo_atual": "138.160,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "39610",
+    "descricao": "SINARA VIEIRA RODRIGUES DE FREITAS",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "41923",
+    "descricao": "RP PED SERVICOS MEDICOS LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "46929",
+    "descricao": "SEMPREVIDA MEDICINA INTENSIVA LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "599.583,45",
+    "valor_credito": "599.583,45",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "47687",
+    "descricao": "MAA CONSULTORIA MEDICO CIENTIFICA LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "34.339,64",
+    "saldo_atual": "34.339,64"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "54900",
+    "descricao": "CARVALHO SERVICOS MEDICOS ASSOCIADOS S/S",
+    "saldo_anterior": "42.555,42",
+    "valor_debito": "121.586,91",
+    "valor_credito": "79.031,49",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "56001",
+    "descricao": "RETINA PEDIATRICA MEDICOS ASSOCIADOS LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "21.386,20",
+    "valor_credito": "21.386,20",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "56618",
+    "descricao": "INFECTOCARE SERVICOS MEDICOS PEDIATRICOS",
+    "saldo_anterior": "0,00",
+    "valor_debito": "25.963,20",
+    "valor_credito": "25.963,20",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "76560",
+    "descricao": "RENAL CARE SERVICOS MEDICOS LTDA",
+    "saldo_anterior": "48.000,00",
+    "valor_debito": "48.000,00",
+    "valor_credito": "48.500,00",
+    "saldo_atual": "48.500,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "86440",
+    "descricao": "MED ANA PLANTOES MEDICOS LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "600,00",
+    "saldo_atual": "600,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "95890",
+    "descricao": "LH ATENDIMENTO HOSPITALAR LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "1.592,25",
+    "valor_credito": "2.653,75",
+    "saldo_atual": "1.061,50"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "108951",
+    "descricao": "L N SERVICOS MEDICOS LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "114487",
+    "descricao": "ATUAL MEDICOS LTDA",
+    "saldo_anterior": "87.539,29",
+    "valor_debito": "258.275,37",
+    "valor_credito": "170.736,08",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "114857",
+    "descricao": "H2 TECNOLOGIA E SERVIÇOS MÉDICOS LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "2.785.327,48",
+    "valor_credito": "2.896.910,08",
+    "saldo_atual": "111.582,60"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "134658",
+    "descricao": "SEMA SERVICOS MEDICOS DE ANESTESIOLOGIA LTDA",
+    "saldo_anterior": "247.950,96",
+    "valor_debito": "247.950,96",
+    "valor_credito": "263.155,50",
+    "saldo_atual": "263.155,50"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "137516",
+    "descricao": "SINGULAR MEDICAL LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "4.000,00",
+    "valor_credito": "18.000,00",
+    "saldo_atual": "14.000,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "148603",
+    "descricao": "RPC E ASSOCIADOS S/S LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "149214",
+    "descricao": "CUNHA, COSTA E CUNHA SERVICOS DE SAUDE S/S LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "150929",
+    "descricao": "CUIDALLE GESTAO EM SAUDE LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "13.896,00",
+    "valor_credito": "13.896,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "159674",
+    "descricao": "SERVICOS MEDICOS LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "166648",
+    "descricao": "SERMEP SERVICOS MEDICOS S.A",
+    "saldo_anterior": "42.522,28",
+    "valor_debito": "42.522,28",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "172939",
+    "descricao": "GASTROPEDIATRIA GOIANIA SERVICOS MEDICOS LTDA",
+    "saldo_anterior": "3.377,50",
+    "valor_debito": "1.930,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "1.447,50"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "173487",
+    "descricao": "GARCIA SERVIÇOS MEDICOS LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "192757",
+    "descricao": "BY SERVICOS DIAGNOSTICOS E MEDICOS LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "772,00",
+    "valor_credito": "772,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "193759",
+    "descricao": "AERODIGESTIVO LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "2.904,90",
+    "valor_credito": "2.904,90",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "204287",
+    "descricao": "ORPHEU SERVIÇOS MEDICOS",
+    "saldo_anterior": "9.407,04",
+    "valor_debito": "25.085,44",
+    "valor_credito": "15.678,40",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "207507",
+    "descricao": "CARNEIRO CLINICA DE ANESTESIA EIRELI",
+    "saldo_anterior": "10.000,00",
+    "valor_debito": "10.000,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "210762",
+    "descricao": "TKS SERVICOS MEDICOS S/S LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "11.359,74",
+    "valor_credito": "11.359,74",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107569",
+    "conta": "2.1.1.02.01.004",
+    "descricao": "FORNECEDORES DE SERVICOS DIVERSOS",
+    "saldo_anterior": "1.345.842,95",
+    "valor_debito": "2.195.645,01",
+    "valor_credito": "1.593.586,60",
+    "saldo_atual": "743.784,54"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "58",
+    "descricao": "SANEAMENTO DE GOIAS S/A",
+    "saldo_anterior": "0,00",
+    "valor_debito": "66.666,92",
+    "valor_credito": "66.666,92",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "60",
+    "descricao": "EQUATORIAL GOIAS DISTRIBUIDORA DE ENERGIA S/A",
+    "saldo_anterior": "84.989,34",
+    "valor_debito": "84.989,34",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "257",
+    "descricao": "MUNICIPIO DE GOIANIA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "4.008,77",
+    "valor_credito": "4.008,77",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "1247",
+    "descricao": "SAD SERVIÇOS DE DEDET LTDA",
+    "saldo_anterior": "2.352,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "2.352,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "2230",
+    "descricao": "IBG IND. BRAS. DE GASES LTDA",
+    "saldo_anterior": "16.073,60",
+    "valor_debito": "44.077,00",
+    "valor_credito": "28.883,40",
+    "saldo_atual": "880,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "5134",
+    "descricao": "SODROGAS DISTRIBUIDORA DE MEDICAMENTOS E",
+    "saldo_anterior": "1.310,00",
+    "valor_debito": "1.310,00",
+    "valor_credito": "2.610,40",
+    "saldo_atual": "2.610,40"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "6136",
+    "descricao": "MLA ENSAIOS ANALITICOS E SOLUCOES AMBIENTAIS LTDA",
+    "saldo_anterior": "3.316,10",
+    "valor_debito": "3.316,10",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "6417",
+    "descricao": "POLYGON COMERCIO E SERVIC. INFOR. LTDA",
+    "saldo_anterior": "1.500,00",
+    "valor_debito": "0,00",
+    "valor_credito": "1.500,00",
+    "saldo_atual": "3.000,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "8449",
+    "descricao": "NUTRA NUTRICAO AVANCADA LTDA",
+    "saldo_anterior": "74.078,57",
+    "valor_debito": "86.475,16",
+    "valor_credito": "69.971,48",
+    "saldo_atual": "57.574,89"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "9493",
+    "descricao": "PRO RAD CONS EM RADIOPROTECAO S/S LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "440,00",
+    "valor_credito": "440,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "14169",
+    "descricao": "BR GAAP CORPORATION TECNOLOGIA DA INFORMACAO",
+    "saldo_anterior": "7.608,56",
+    "valor_debito": "15.217,12",
+    "valor_credito": "7.608,56",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "14368",
+    "descricao": "INGOH - INSTITUTO GOIANO DE ONCOLOGIA E",
+    "saldo_anterior": "18.065,38",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "18.065,38"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "14500",
+    "descricao": "PASTAROSA SERVICOS LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "2.427,60",
+    "saldo_atual": "2.427,60"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "15697",
+    "descricao": "PLANISA PLANEJ E ORGAN DE INST DE SAUDE LTDA C",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "17180",
+    "descricao": "TOTVS S.A.",
+    "saldo_anterior": "1.755,74",
+    "valor_debito": "3.511,48",
+    "valor_credito": "1.755,74",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "18490",
+    "descricao": "ECOSENSE CONST. LOG. GESTÃO AMB. LTDA",
+    "saldo_anterior": "12.133,23",
+    "valor_debito": "25.283,26",
+    "valor_credito": "13.150,03",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "19589",
+    "descricao": "INTEGRAVOX SOLUCOES EM COM LTDA",
+    "saldo_anterior": "867,78",
+    "valor_debito": "1.735,56",
+    "valor_credito": "867,78",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "20629",
+    "descricao": "REDEMOB CONSORCIO",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "22566",
+    "descricao": "WERBRAN DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "22996",
+    "descricao": "HOSPCOM - GDB COMERCIO E SERVICOS LTDA",
+    "saldo_anterior": "6.400,00",
+    "valor_debito": "0,00",
+    "valor_credito": "6.400,00",
+    "saldo_atual": "12.800,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "23037",
+    "descricao": "NOXTEC SERVICOS LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "57.747,93",
+    "valor_credito": "64.547,93",
+    "saldo_atual": "6.800,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "23441",
+    "descricao": "MUNDO DIGITAL TECNOLOGIA DA INFORMACAO LTDA",
+    "saldo_anterior": "36.249,45",
+    "valor_debito": "16.921,28",
+    "valor_credito": "37.356,27",
+    "saldo_atual": "56.684,44"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "23677",
+    "descricao": "LINQ TELECOMUNICACOES LTDA",
+    "saldo_anterior": "741,62",
+    "valor_debito": "1.769,00",
+    "valor_credito": "1.379,00",
+    "saldo_atual": "351,62"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "39587",
+    "descricao": "DIVINA MARIA DE SOUZA D3 SOLUCOES EIRELI",
+    "saldo_anterior": "0,00",
+    "valor_debito": "5.778,00",
+    "valor_credito": "5.778,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "44531",
+    "descricao": "OXIENG COMÉRCIO E SERVIÇOS LTDA-ME",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "44556",
+    "descricao": "BIOMEGA MEDICINA DIAGNÓSTICA LTDA",
+    "saldo_anterior": "391.361,46",
+    "valor_debito": "352.839,99",
+    "valor_credito": "0,00",
+    "saldo_atual": "38.521,47"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "44648",
+    "descricao": "STAR SEGURANCA ELETRONICA LTDA",
+    "saldo_anterior": "244.796,77",
+    "valor_debito": "208.555,96",
+    "valor_credito": "34.249,88",
+    "saldo_atual": "70.490,69"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "45389",
+    "descricao": "RESIDUO ZERO AMBIENTAL S.A",
+    "saldo_anterior": "18.818,58",
+    "valor_debito": "8.946,02",
+    "valor_credito": "8.946,02",
+    "saldo_atual": "18.818,58"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "45965",
+    "descricao": "SXMEDIC COMERCIO E LOCACAO E SERVICOS LTDA",
+    "saldo_anterior": "540,00",
+    "valor_debito": "1.590,00",
+    "valor_credito": "1.050,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "46229",
+    "descricao": "DUARTE & ALMEIDA PROJETOS E COMBATE A INCENDIO",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "46255",
+    "descricao": "GERACAO ENERGIA LTDA",
+    "saldo_anterior": "11.676,60",
+    "valor_debito": "23.176,60",
+    "valor_credito": "11.500,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "46287",
+    "descricao": "MICRO & SOFT INFORMATICA LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "48.040,00",
+    "valor_credito": "48.040,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "46528",
+    "descricao": "ALELO S.A",
+    "saldo_anterior": "0,00",
+    "valor_debito": "1.100,00",
+    "valor_credito": "2.311,32",
+    "saldo_atual": "1.211,32"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "47163",
+    "descricao": "EXECUTIVA COM MAQ E QUIP ESCR LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "6.586,66",
+    "saldo_atual": "6.586,66"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "47367",
+    "descricao": "5 ESTRELAS SISTEMA DE SEGURANCA LTDA - BLOQ.",
+    "saldo_anterior": "83.972,92",
+    "valor_debito": "0,00",
+    "valor_credito": "82.836,72",
+    "saldo_atual": "166.809,64"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "48115",
+    "descricao": "IDEAL CONTAINERS INDUSTRIA METALURGICA EIRELI",
+    "saldo_anterior": "0,00",
+    "valor_debito": "4.268,00",
+    "valor_credito": "4.268,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "49764",
+    "descricao": "MALTA SERVICE LTDA",
+    "saldo_anterior": "33.259,49",
+    "valor_debito": "33.259,49",
+    "valor_credito": "30.850,00",
+    "saldo_atual": "30.850,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "56606",
+    "descricao": "PAULIANA DE OLIVEIRA",
+    "saldo_anterior": "1.950,00",
+    "valor_debito": "2.600,00",
+    "valor_credito": "650,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "58441",
+    "descricao": "CENTRAL DE REPROCESSAMENTO DE MATERIAIS LTDA",
+    "saldo_anterior": "64.125,00",
+    "valor_debito": "128.250,00",
+    "valor_credito": "64.125,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "70601",
+    "descricao": "GAO SERVICOS DE LOCACAO E LAVANDERIA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "116.678,28",
+    "valor_credito": "116.678,28",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "76896",
+    "descricao": "VIDA GOIAS UTI MOVEL LTDA",
+    "saldo_anterior": "103.382,46",
+    "valor_debito": "43.571,60",
+    "valor_credito": "68.481,13",
+    "saldo_atual": "128.291,99"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "78948",
+    "descricao": "MODERNA PAPELARIA LTDA",
+    "saldo_anterior": "907,94",
+    "valor_debito": "907,94",
+    "valor_credito": "1.543,23",
+    "saldo_atual": "1.543,23"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "80422",
+    "descricao": "APOIO COTAÇÕES SISTEMA DE INFORMATICA S/A",
+    "saldo_anterior": "500,00",
+    "valor_debito": "500,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "80824",
+    "descricao": "S DA SILVA MARTINS - PORTAS DE ACO DINAMICA",
+    "saldo_anterior": "1.200,00",
+    "valor_debito": "1.200,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "104291",
+    "descricao": "LG RESTAURANTE E COMERCIO DE ALIMENTOS LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "570.923,42",
+    "valor_credito": "570.923,42",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "113612",
+    "descricao": "LAVEST LAVANDERIA E ESTERILIZACAO LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "118684",
+    "descricao": "MARQUES RODRIGUES PIMENTEL - MAXIMAGENS",
+    "saldo_anterior": "0,00",
+    "valor_debito": "4.500,00",
+    "valor_credito": "4.500,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "123213",
+    "descricao": "INSTITUTO DE PROMOCAO HUMANA, APRENDIZAGEM E",
+    "saldo_anterior": "76.120,28",
+    "valor_debito": "0,00",
+    "valor_credito": "15.191,52",
+    "saldo_atual": "91.311,80"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "140218",
+    "descricao": "BRFIBRA TELECOMUNICACOES LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "146192",
+    "descricao": "RADIONUCLEAR SERVICOS TECNICOS EM DIAGNOSTICO",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "146888",
+    "descricao": "PREMIUM CONTROLE DE PRAGAS E SERVICOS LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "3.448,98",
+    "valor_credito": "3.448,98",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "154975",
+    "descricao": "FUNDACAO DE APOIO A PESQUISA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "156066",
+    "descricao": "CENTRO AUDITIVO TELEX LTDA",
+    "saldo_anterior": "950,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "950,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "156348",
+    "descricao": "GOIAARTEC COMPRESSORES LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "158908",
+    "descricao": "BRFIBRA TELECOMUNICACOES LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "162009",
+    "descricao": "FACILITA TELECOM LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "329,95",
+    "saldo_atual": "329,95"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "162013",
+    "descricao": "VB SERVIÇOS COMERCIO E ADMNISTRAÇÃO LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "162014",
+    "descricao": "PASSAPORTE VIAGENS E TURISMO LTDA",
+    "saldo_anterior": "1.614,17",
+    "valor_debito": "1.614,17",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "162029",
+    "descricao": "DW SERVICE LTDA - BLOQ.",
+    "saldo_anterior": "7.366,50",
+    "valor_debito": "4.414,00",
+    "valor_credito": "4.344,50",
+    "saldo_atual": "7.297,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "162091",
+    "descricao": "G5 ARQUITETURA E ENGENHARIA S/S",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "162328",
+    "descricao": "ACG ADMINISTRADORA DE CARTOES S.A.",
+    "saldo_anterior": "500,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "500,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "162652",
+    "descricao": "MFC CONSULTORIA DE QUALIDADE LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "9.975,00",
+    "valor_credito": "9.975,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "165338",
+    "descricao": "PABLO FELIPE RABELO LOPES",
+    "saldo_anterior": "0,00",
+    "valor_debito": "275,91",
+    "valor_credito": "275,91",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "169362",
+    "descricao": "KAIROS PHARMA PRODUTOS PARA SAUDE LTDA",
+    "saldo_anterior": "9.072,31",
+    "valor_debito": "12.389,57",
+    "valor_credito": "11.582,14",
+    "saldo_atual": "8.264,88"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "172859",
+    "descricao": "TRADICAO ENGENHARIA LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "59.493,45",
+    "valor_credito": "59.493,45",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "174179",
+    "descricao": "FIGUEREDO E SANTOS LIMPEZA E CUIDADOS LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "2.516,16",
+    "valor_credito": "2.516,16",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "175319",
+    "descricao": "RESGATE UTI MOVEL LTDA",
+    "saldo_anterior": "1.797,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "1.797,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "176899",
+    "descricao": "BLACK INN HOTEL LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "291,65",
+    "valor_credito": "291,65",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "176902",
+    "descricao": "JRV SERVICOS LTDA - BLOQ.",
+    "saldo_anterior": "15.500,00",
+    "valor_debito": "15.500,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "176903",
+    "descricao": "IAG - INSTITUTO DE ACREDITACAO E GESTAO,",
+    "saldo_anterior": "0,00",
+    "valor_debito": "3.450,00",
+    "valor_credito": "3.450,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "176917",
+    "descricao": "CMT CENTRO DE MEDICINA E SEGURANCA DO TRABALHO",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "5.044,00",
+    "saldo_atual": "5.044,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "179362",
+    "descricao": "PROCONT ASSISTENCIA CONTABIL",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "183619",
+    "descricao": "JHONATAN SILVA CAMARGO",
+    "saldo_anterior": "0,00",
+    "valor_debito": "589,01",
+    "valor_credito": "589,01",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "184592",
+    "descricao": "VR MOBILIDADE E TECNOLOGIA S.A.,",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "191925",
+    "descricao": "RENASCER LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "192095",
+    "descricao": "FFK SERVICOS LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "14.000,00",
+    "valor_credito": "14.000,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "192706",
+    "descricao": "TALINE CACADOR GUIMARAES",
+    "saldo_anterior": "0,00",
+    "valor_debito": "12.000,00",
+    "valor_credito": "12.000,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "192711",
+    "descricao": "CLINICA MEDICA CSC LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "28.200,91",
+    "valor_credito": "28.200,91",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "194269",
+    "descricao": "49.250.706 RAFAELLA LAMOUNIER FIRMINO",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "195162",
+    "descricao": "JADOC SOLUCOES CORPORATIVAS LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "6.753,73",
+    "valor_credito": "6.753,73",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "197493",
+    "descricao": "D-SAAS TECNOLOGIA EM DESENVOLVIMENTO DE",
+    "saldo_anterior": "0,00",
+    "valor_debito": "550,50",
+    "valor_credito": "550,50",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "199682",
+    "descricao": "ALVARO HENRIQUE SILVA E VASCONCELOS",
+    "saldo_anterior": "0,00",
+    "valor_debito": "8.000,00",
+    "valor_credito": "8.000,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "202945",
+    "descricao": "TRM ESTRATEGIA & GESTAO LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "10.000,00",
+    "valor_credito": "10.000,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "204288",
+    "descricao": "CLEONIS REZENDE FELIPE",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "204289",
+    "descricao": "SO PELICULAS GOIAS LTDA",
+    "saldo_anterior": "2.570,10",
+    "valor_debito": "2.570,10",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "206299",
+    "descricao": "ISABELLA ANDRADE PIMENTA",
+    "saldo_anterior": "4.800,00",
+    "valor_debito": "4.800,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "206602",
+    "descricao": "NUCORE HEALTH & EDUCATION LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "206989",
+    "descricao": "VR BENEFICIOS E SERVICOS DE PROCESSAMENTO S.A",
+    "saldo_anterior": "0,00",
+    "valor_debito": "22.547,61",
+    "valor_credito": "22.547,61",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "207701",
+    "descricao": "DIGITAL SOLUCOES, SERVICOS E COMERCIO LTDA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "210829",
+    "descricao": "J. CAMARA & IRMAOS LTDA",
+    "saldo_anterior": "1.620,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "1.620,00"
+  },
+  {
+    "tipo": "conta_auxiliar",
+    "codigo_auxiliar": "210891",
+    "descricao": "54.726.037 DIONE FERREIRA DE OLIVEIRA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "2.110,04",
+    "valor_credito": "2.110,04",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107714",
+    "conta": "2.1.1.02.03",
+    "descricao": "GESTAO DE CONTRATOS",
+    "saldo_anterior": "10.595.119,76",
+    "valor_debito": "18.283.440,18",
+    "valor_credito": "17.421.614,37",
+    "saldo_atual": "9.733.293,95"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107577",
+    "conta": "2.1.1.02.03.001",
+    "descricao": "CONTRATOS A FATURAR",
+    "saldo_anterior": "56.596.463,81",
+    "valor_debito": "6.599.352,84",
+    "valor_credito": "11.867.852,41",
+    "saldo_atual": "61.864.963,38"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107576",
+    "conta": "2.1.1.02.03.002",
+    "descricao": "(-) CONTRATOS A EXECUTAR (A REALIZAR)",
+    "saldo_anterior": "-46.001.344,05",
+    "valor_debito": "11.684.087,34",
+    "valor_credito": "5.553.761,96",
+    "saldo_atual": "-52.131.669,43"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107715",
+    "conta": "2.1.1.02.05",
+    "descricao": "OBRIGACOES COM PESSOAL",
+    "saldo_anterior": "2.011.628,63",
+    "valor_debito": "2.564.543,80",
+    "valor_credito": "2.816.334,63",
+    "saldo_atual": "2.263.419,46"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107578",
+    "conta": "2.1.1.02.05.001",
+    "descricao": "SALARIOS A PAGAR",
+    "saldo_anterior": "1.924.424,69",
+    "valor_debito": "2.449.539,97",
+    "valor_credito": "2.715.441,43",
+    "saldo_atual": "2.190.326,15"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107579",
+    "conta": "2.1.1.02.05.003",
+    "descricao": "RESCISOES A PAGAR",
+    "saldo_anterior": "20.005,98",
+    "valor_debito": "47.206,42",
+    "valor_credito": "40.002,00",
+    "saldo_atual": "12.801,56"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107582",
+    "conta": "2.1.1.02.05.006",
+    "descricao": "CONTRIBUIÇÃO SINDICAL A PAGAR",
+    "saldo_anterior": "25.608,80",
+    "valor_debito": "25.321,28",
+    "valor_credito": "11.195,00",
+    "saldo_atual": "11.482,52"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "109296",
+    "conta": "2.1.1.02.05.009",
+    "descricao": "CONSIGNADO A PAGAR - PORTATIA MTE 435",
+    "saldo_anterior": "41.589,16",
+    "valor_debito": "42.476,13",
+    "valor_credito": "49.696,20",
+    "saldo_atual": "48.809,23"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107716",
+    "conta": "2.1.1.02.07",
+    "descricao": "ENCARGOS SOCIAIS A RECOLHER",
+    "saldo_anterior": "515.864,16",
+    "valor_debito": "519.660,01",
+    "valor_credito": "450.001,60",
+    "saldo_atual": "446.205,75"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107583",
+    "conta": "2.1.1.02.07.001",
+    "descricao": "INSS DE FOLHA A RECOLHER",
+    "saldo_anterior": "213.427,75",
+    "valor_debito": "248.469,75",
+    "valor_credito": "240.539,85",
+    "saldo_atual": "205.497,85"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107584",
+    "conta": "2.1.1.02.07.002",
+    "descricao": "FGTS DE FOLHA A RECOLHER",
+    "saldo_anterior": "302.436,41",
+    "valor_debito": "271.190,26",
+    "valor_credito": "209.461,75",
+    "saldo_atual": "240.707,90"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107717",
+    "conta": "2.1.1.02.09",
+    "descricao": "OBRIGACOES TRIBUTARIAS",
+    "saldo_anterior": "462.272,01",
+    "valor_debito": "412.736,90",
+    "valor_credito": "559.294,00",
+    "saldo_atual": "608.829,11"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107588",
+    "conta": "2.1.1.02.09.001",
+    "descricao": "IRRF / SOBRE FOLHA A RECOLHER",
+    "saldo_anterior": "237.254,70",
+    "valor_debito": "182.522,23",
+    "valor_credito": "72.054,00",
+    "saldo_atual": "126.786,47"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107589",
+    "conta": "2.1.1.02.09.002",
+    "descricao": "IRRF / SOBRE PESSOA JURIDICA A RECOLHER",
+    "saldo_anterior": "42.298,62",
+    "valor_debito": "42.298,62",
+    "valor_credito": "73.219,83",
+    "saldo_atual": "73.219,83"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107591",
+    "conta": "2.1.1.02.09.004",
+    "descricao": "ISSQN RETIDO A RECOLHER",
+    "saldo_anterior": "53.773,69",
+    "valor_debito": "58.971,05",
+    "valor_credito": "169.421,84",
+    "saldo_atual": "164.224,48"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107592",
+    "conta": "2.1.1.02.09.005",
+    "descricao": "PIS/COFINS/CSLL RETIDOS A RECOLHER",
+    "saldo_anterior": "128.627,10",
+    "valor_debito": "128.627,10",
+    "valor_credito": "229.776,75",
+    "saldo_atual": "229.776,75"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107593",
+    "conta": "2.1.1.02.09.006",
+    "descricao": "INSS RETIDO A RECOLHER",
+    "saldo_anterior": "317,90",
+    "valor_debito": "317,90",
+    "valor_credito": "14.821,58",
+    "saldo_atual": "14.821,58"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107718",
+    "conta": "2.1.1.02.11",
+    "descricao": "EMPRESTIMOS E FINANCIAMENTOS",
+    "saldo_anterior": "18.158,25",
+    "valor_debito": "589,40",
+    "valor_credito": "6.176,59",
+    "saldo_atual": "23.745,44"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "109297",
+    "conta": "2.1.1.02.11.003",
+    "descricao": "EMPRÉSTIMO COM ESTOQUE RECEBIDO",
+    "saldo_anterior": "18.158,25",
+    "valor_debito": "589,40",
+    "valor_credito": "6.176,59",
+    "saldo_atual": "23.745,44"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107765",
+    "conta": "2.1.1.02.12",
+    "descricao": "OUTRAS OBRIGAÇÕES",
+    "saldo_anterior": "282.369,61",
+    "valor_debito": "282.369,62",
+    "valor_credito": "271.623,04",
+    "saldo_atual": "271.623,03"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107766",
+    "conta": "2.1.1.02.12.001",
+    "descricao": "OBRIGAÇÕES COM RATEIO MATRIZ IGH",
+    "saldo_anterior": "282.369,61",
+    "valor_debito": "282.369,62",
+    "valor_credito": "271.623,04",
+    "saldo_atual": "271.623,03"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107719",
+    "conta": "2.1.1.02.13",
+    "descricao": "PROVISOES TRABALHISTAS",
+    "saldo_anterior": "5.072.138,56",
+    "valor_debito": "50.889,16",
+    "valor_credito": "1.010.373,37",
+    "saldo_atual": "6.031.622,77"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107603",
+    "conta": "2.1.1.02.13.001",
+    "descricao": "FERIAS E ENCARGOS",
+    "saldo_anterior": "5.072.138,56",
+    "valor_debito": "47.953,35",
+    "valor_credito": "795.343,48",
+    "saldo_atual": "5.819.528,69"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107604",
+    "conta": "2.1.1.02.13.002",
+    "descricao": "13 SALARIO E ENCARGOS",
+    "saldo_anterior": "0,00",
+    "valor_debito": "2.935,81",
+    "valor_credito": "215.029,89",
+    "saldo_atual": "212.094,08"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107721",
+    "conta": "2.1.1.02.17",
+    "descricao": "CONTRATOS DE GESTAO E CONVENIOS A EXECUTAR",
+    "saldo_anterior": "1.536.598,20",
+    "valor_debito": "9.857.795,29",
+    "valor_credito": "10.024.684,03",
+    "saldo_atual": "1.703.486,94"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107609",
+    "conta": "2.1.1.02.17.001",
+    "descricao": "CONTRATO DE GESTAO A EXECUTAR",
+    "saldo_anterior": "1.536.598,20",
+    "valor_debito": "9.857.795,29",
+    "valor_credito": "10.024.684,03",
+    "saldo_atual": "1.703.486,94"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107692",
+    "conta": "2.9",
+    "descricao": "PASSIVO COMPENSADO",
+    "saldo_anterior": "116.918.426,81",
+    "valor_debito": "9.871.357,14",
+    "valor_credito": "829.325,67",
+    "saldo_atual": "107.876.395,34"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107696",
+    "conta": "2.9.1",
+    "descricao": "PASSIVO COMPENSADO",
+    "saldo_anterior": "116.918.426,81",
+    "valor_debito": "9.871.357,14",
+    "valor_credito": "829.325,67",
+    "saldo_atual": "107.876.395,34"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107705",
+    "conta": "2.9.1.02",
+    "descricao": "PASSIVO COMPENSADO COM RESTRICAO",
+    "saldo_anterior": "116.918.426,81",
+    "valor_debito": "9.871.357,14",
+    "valor_credito": "829.325,67",
+    "saldo_atual": "107.876.395,34"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107707",
+    "conta": "2.9.1.02.01",
+    "descricao": "CONTRATO DE GESTAO",
+    "saldo_anterior": "98.581.652,78",
+    "valor_debito": "9.835.909,58",
+    "valor_credito": "37.818,25",
+    "saldo_atual": "88.783.561,45"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107666",
+    "conta": "2.9.1.02.01.001",
+    "descricao": "CONTRATO DE GESTAO",
+    "saldo_anterior": "98.581.652,78",
+    "valor_debito": "9.835.909,58",
+    "valor_credito": "37.818,25",
+    "saldo_atual": "88.783.561,45"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107708",
+    "conta": "2.9.1.02.02",
+    "descricao": "BENS CEDIDOS",
+    "saldo_anterior": "12.792.082,47",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "12.792.082,47"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107667",
+    "conta": "2.9.1.02.02.001",
+    "descricao": "BENS CEDIDOS",
+    "saldo_anterior": "12.792.082,47",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "12.792.082,47"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107709",
+    "conta": "2.9.1.02.03",
+    "descricao": "BENS ADQUIRIDOS COM REC. CONTRATO DE GESTAO",
+    "saldo_anterior": "47.620,56",
+    "valor_debito": "35.447,56",
+    "valor_credito": "101.920,69",
+    "saldo_atual": "114.093,69"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107672",
+    "conta": "2.9.1.02.03.001",
+    "descricao": "BENS ADQUIRIDOS COM REC. CONTRATO DE GESTAO",
+    "saldo_anterior": "47.620,56",
+    "valor_debito": "35.447,56",
+    "valor_credito": "0,00",
+    "saldo_atual": "12.173,00"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107677",
+    "conta": "2.9.1.02.03.006",
+    "descricao": "BENFEITORIAS EM IMÓVEIS (REFORMA E AMPLIAÇÃO)",
+    "saldo_anterior": "0,00",
+    "valor_debito": "0,00",
+    "valor_credito": "101.920,69",
+    "saldo_atual": "101.920,69"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "109298",
+    "conta": "2.9.1.02.05",
+    "descricao": "ISENÇÕES CEBAS",
+    "saldo_anterior": "5.497.071,00",
+    "valor_debito": "0,00",
+    "valor_credito": "689.586,73",
+    "saldo_atual": "6.186.657,73"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "109299",
+    "conta": "2.9.1.02.05.001",
+    "descricao": "ISENÇÃO DA QUOTA PATRONAL",
+    "saldo_anterior": "4.089.706,49",
+    "valor_debito": "0,00",
+    "valor_credito": "512.121,11",
+    "saldo_atual": "4.601.827,60"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "109300",
+    "conta": "2.9.1.02.05.002",
+    "descricao": "ISENÇÃO RAT",
+    "saldo_anterior": "204.485,38",
+    "valor_debito": "0,00",
+    "valor_credito": "25.606,72",
+    "saldo_atual": "230.092,10"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "109301",
+    "conta": "2.9.1.02.05.003",
+    "descricao": "ISENÇÃO DE CONTRIBUIÇÕES OUTRAS ENTIDADES",
+    "saldo_anterior": "1.202.879,13",
+    "valor_debito": "0,00",
+    "valor_credito": "151.858,90",
+    "saldo_atual": "1.354.738,03"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107774",
+    "conta": "3",
+    "descricao": "RESULTADO",
+    "saldo_anterior": "0,00",
+    "valor_debito": "10.806.527,43",
+    "valor_credito": "10.806.527,43",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107776",
+    "conta": "3.2",
+    "descricao": "RESULTADO OPERACIONAL COM RESTRICAO",
+    "saldo_anterior": "0,00",
+    "valor_debito": "10.806.527,43",
+    "valor_credito": "10.806.527,43",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107778",
+    "conta": "3.2.1",
+    "descricao": "RESULTAD0 DE SAUDE COM RESTRICAO",
+    "saldo_anterior": "0,00",
+    "valor_debito": "10.806.527,43",
+    "valor_credito": "10.806.527,43",
+    "saldo_atual": "0,00"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107782",
+    "conta": "3.2.1.01",
+    "descricao": "RECEITAS",
+    "saldo_anterior": "79.147.528,62",
+    "valor_debito": "188.774,45",
+    "valor_credito": "10.085.840,47",
+    "saldo_atual": "89.044.594,64"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107790",
+    "conta": "3.2.1.01.01",
+    "descricao": "RECEITAS DE SUBVENÇAO GOVERNAMENTAL",
+    "saldo_anterior": "77.618.372,39",
+    "valor_debito": "188.774,45",
+    "valor_credito": "9.857.795,29",
+    "saldo_atual": "87.287.393,23"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107682",
+    "conta": "3.2.1.01.01.001",
+    "descricao": "RECEITAS DE SUBVENÇAO - CONTRATO DE GESTAO",
+    "saldo_anterior": "77.618.372,39",
+    "valor_debito": "188.774,45",
+    "valor_credito": "9.857.795,29",
+    "saldo_atual": "87.287.393,23"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107791",
+    "conta": "3.2.1.01.03",
+    "descricao": "RECEITAS FINANCEIRAS",
+    "saldo_anterior": "1.529.061,29",
+    "valor_debito": "0,00",
+    "valor_credito": "227.902,40",
+    "saldo_atual": "1.756.963,69"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107685",
+    "conta": "3.2.1.01.03.001",
+    "descricao": "RENDIMENTO DE APLICAÇAO FINANCEIRA",
+    "saldo_anterior": "1.512.045,39",
+    "valor_debito": "0,00",
+    "valor_credito": "227.073,09",
+    "saldo_atual": "1.739.118,48"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107686",
+    "conta": "3.2.1.01.03.002",
+    "descricao": "DESCONTOS OBTIDOS",
+    "saldo_anterior": "17.015,90",
+    "valor_debito": "0,00",
+    "valor_credito": "829,31",
+    "saldo_atual": "17.845,21"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107794",
+    "conta": "3.2.1.01.99",
+    "descricao": "OUTRAS RECEITAS OBTIDAS",
+    "saldo_anterior": "94,94",
+    "valor_debito": "0,00",
+    "valor_credito": "142,78",
+    "saldo_atual": "237,72"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107712",
+    "conta": "3.2.1.01.99.001",
+    "descricao": "OUTRAS RECEITAS OBTIDAS",
+    "saldo_anterior": "94,94",
+    "valor_debito": "0,00",
+    "valor_credito": "142,78",
+    "saldo_atual": "237,72"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107784",
+    "conta": "3.2.1.20",
+    "descricao": "CUSTOS COM PESSOAL",
+    "saldo_anterior": "21.558.643,91",
+    "valor_debito": "3.004.553,48",
+    "valor_credito": "42.490,60",
+    "saldo_atual": "24.520.706,79"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107796",
+    "conta": "3.2.1.20.01",
+    "descricao": "REMUNERAÇAO COM PESSOAL PROPRIO",
+    "saldo_anterior": "17.661.791,59",
+    "valor_debito": "2.466.104,48",
+    "valor_credito": "32.193,42",
+    "saldo_atual": "20.095.702,65"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107731",
+    "conta": "3.2.1.20.01.001",
+    "descricao": "SALARIOS E ORDENADOS",
+    "saldo_anterior": "10.931.222,19",
+    "valor_debito": "1.470.382,56",
+    "valor_credito": "17.874,11",
+    "saldo_atual": "12.383.730,64"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107732",
+    "conta": "3.2.1.20.01.002",
+    "descricao": "RESCISOES TRABALHISTAS",
+    "saldo_anterior": "2.709.880,70",
+    "valor_debito": "401.081,86",
+    "valor_credito": "14.319,31",
+    "saldo_atual": "3.096.643,25"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107733",
+    "conta": "3.2.1.20.01.003",
+    "descricao": "ADICIONAIS, GRATIFICAÇÕES DE FUNÇAO E OUTROS",
+    "saldo_anterior": "2.203.093,90",
+    "valor_debito": "344.828,12",
+    "valor_credito": "0,00",
+    "saldo_atual": "2.547.922,02"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107734",
+    "conta": "3.2.1.20.01.004",
+    "descricao": "HORAS EXTRAS",
+    "saldo_anterior": "27.128,02",
+    "valor_debito": "911,18",
+    "valor_credito": "0,00",
+    "saldo_atual": "28.039,20"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107772",
+    "conta": "3.2.1.20.01.010",
+    "descricao": "COMPL. PISO SALARIAL ENFERMEIROS CONF. LEI 14.434/2022",
+    "saldo_anterior": "1.790.466,78",
+    "valor_debito": "248.900,76",
+    "valor_credito": "0,00",
+    "saldo_atual": "2.039.367,54"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107797",
+    "conta": "3.2.1.20.03",
+    "descricao": "ENCARGOS SOCIAIS",
+    "saldo_anterior": "1.303.963,48",
+    "valor_debito": "167.192,36",
+    "valor_credito": "0,00",
+    "saldo_atual": "1.471.155,84"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107741",
+    "conta": "3.2.1.20.03.002",
+    "descricao": "FGTS S/ FOLHA",
+    "saldo_anterior": "1.303.963,48",
+    "valor_debito": "167.192,36",
+    "valor_credito": "0,00",
+    "saldo_atual": "1.471.155,84"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107798",
+    "conta": "3.2.1.20.05",
+    "descricao": "BENEFICIOS SOCIAIS",
+    "saldo_anterior": "478,69",
+    "valor_debito": "0,00",
+    "valor_credito": "6.842,74",
+    "saldo_atual": "-6.364,05"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107924",
+    "conta": "3.2.1.20.05.001",
+    "descricao": "VALE TRANSPORTE",
+    "saldo_anterior": "-13.521,31",
+    "valor_debito": "0,00",
+    "valor_credito": "6.842,74",
+    "saldo_atual": "-20.364,05"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107767",
+    "conta": "3.2.1.20.05.011",
+    "descricao": "TREINAMENTO",
+    "saldo_anterior": "14.000,00",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "14.000,00"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107799",
+    "conta": "3.2.1.20.07",
+    "descricao": "PROVISOES TRABALHISTAS",
+    "saldo_anterior": "2.592.410,15",
+    "valor_debito": "371.256,64",
+    "valor_credito": "3.454,44",
+    "saldo_atual": "2.960.212,35"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107932",
+    "conta": "3.2.1.20.07.001",
+    "descricao": "PROVISAO DE FERIAS E ENCARGOS",
+    "saldo_anterior": "1.526.495,79",
+    "valor_debito": "216.504,86",
+    "valor_credito": "3.454,44",
+    "saldo_atual": "1.739.546,21"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107933",
+    "conta": "3.2.1.20.07.002",
+    "descricao": "PROVISAO DE 13 SALARIO E ENCARGOS",
+    "saldo_anterior": "1.065.914,36",
+    "valor_debito": "154.751,78",
+    "valor_credito": "0,00",
+    "saldo_atual": "1.220.666,14"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107785",
+    "conta": "3.2.1.30",
+    "descricao": "CUSTO COM SERVICOS E MATERIAIS",
+    "saldo_anterior": "14.009.717,47",
+    "valor_debito": "1.945.218,44",
+    "valor_credito": "174.103,75",
+    "saldo_atual": "15.780.832,16"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107800",
+    "conta": "3.2.1.30.01",
+    "descricao": "CUSTO COM MATERIAIS",
+    "saldo_anterior": "5.335.879,80",
+    "valor_debito": "638.633,20",
+    "valor_credito": "7.571,60",
+    "saldo_atual": "5.966.941,40"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107934",
+    "conta": "3.2.1.30.01.002",
+    "descricao": "MEDICAMENTOS E MEDIC. DE NUTRIÇÃO PARENTERAIS",
+    "saldo_anterior": "2.419.731,61",
+    "valor_debito": "287.332,79",
+    "valor_credito": "0,00",
+    "saldo_atual": "2.707.064,40"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107935",
+    "conta": "3.2.1.30.01.003",
+    "descricao": "MATERIAL APLICADO (MATERIAL HOSPITALAR)",
+    "saldo_anterior": "2.065.020,54",
+    "valor_debito": "245.756,86",
+    "valor_credito": "0,00",
+    "saldo_atual": "2.310.777,40"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107938",
+    "conta": "3.2.1.30.01.006",
+    "descricao": "GENEROS ALIMENTÍCIOS (DIETAS ENTERAIS)",
+    "saldo_anterior": "166.334,21",
+    "valor_debito": "33.774,78",
+    "valor_credito": "0,00",
+    "saldo_atual": "200.108,99"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107940",
+    "conta": "3.2.1.30.01.008",
+    "descricao": "MATERIAL DE LIMPEZA",
+    "saldo_anterior": "299.359,18",
+    "valor_debito": "33.760,26",
+    "valor_credito": "0,00",
+    "saldo_atual": "333.119,44"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107942",
+    "conta": "3.2.1.30.01.010",
+    "descricao": "MATERIAIS DE MANUTENÇÃO",
+    "saldo_anterior": "128.664,06",
+    "valor_debito": "10.398,51",
+    "valor_credito": "0,00",
+    "saldo_atual": "139.062,57"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107747",
+    "conta": "3.2.1.30.01.015",
+    "descricao": "GASES HOSPITALARES",
+    "saldo_anterior": "256.770,20",
+    "valor_debito": "27.610,00",
+    "valor_credito": "7.571,60",
+    "saldo_atual": "276.808,60"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107801",
+    "conta": "3.2.1.30.03",
+    "descricao": "SERVIÇOS",
+    "saldo_anterior": "8.626.217,11",
+    "valor_debito": "1.085.008,13",
+    "valor_credito": "11.428,17",
+    "saldo_atual": "9.699.797,07"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107748",
+    "conta": "3.2.1.30.03.001",
+    "descricao": "ENERGIA ELETRICA",
+    "saldo_anterior": "755.167,12",
+    "valor_debito": "84.146,10",
+    "valor_credito": "1.000,00",
+    "saldo_atual": "838.313,22"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107749",
+    "conta": "3.2.1.30.03.002",
+    "descricao": "SERVIÇOS DE HIGIENE E LIMPEZA",
+    "saldo_anterior": "83.643,57",
+    "valor_debito": "9.145,91",
+    "valor_credito": "0,00",
+    "saldo_atual": "92.789,48"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107750",
+    "conta": "3.2.1.30.03.003",
+    "descricao": "AGUA E ESGOTO",
+    "saldo_anterior": "394.198,81",
+    "valor_debito": "66.666,92",
+    "valor_credito": "0,00",
+    "saldo_atual": "460.865,73"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107613",
+    "conta": "3.2.1.30.03.004",
+    "descricao": "SERVIÇOS DE MANUTENÇAO DE EQUIPAMENTOS",
+    "saldo_anterior": "354.509,53",
+    "valor_debito": "36.169,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "390.678,53"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107944",
+    "conta": "3.2.1.30.03.005",
+    "descricao": "SERVIÇOS DE TRANSPORTE",
+    "saldo_anterior": "479.806,50",
+    "valor_debito": "72.085,40",
+    "valor_credito": "0,00",
+    "saldo_atual": "551.891,90"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107946",
+    "conta": "3.2.1.30.03.007",
+    "descricao": "COMUNICAÇÃO - TELEFONE",
+    "saldo_anterior": "21.688,68",
+    "valor_debito": "2.618,95",
+    "valor_credito": "0,00",
+    "saldo_atual": "24.307,63"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107949",
+    "conta": "3.2.1.30.03.010",
+    "descricao": "HOSPEDAGEM",
+    "saldo_anterior": "92.555,86",
+    "valor_debito": "532,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "93.087,86"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "109302",
+    "conta": "3.2.1.30.03.012",
+    "descricao": "SERVIÇOS DE COLETA DE RESÍDUOS",
+    "saldo_anterior": "207.087,48",
+    "valor_debito": "30.468,78",
+    "valor_credito": "10.428,17",
+    "saldo_atual": "227.128,09"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "109303",
+    "conta": "3.2.1.30.03.013",
+    "descricao": "SERVIÇOS DE ALIMENTAÇÃO E REFEIÇÃO",
+    "saldo_anterior": "6.167.224,82",
+    "valor_debito": "771.293,49",
+    "valor_credito": "0,00",
+    "saldo_atual": "6.938.518,31"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "109304",
+    "conta": "3.2.1.30.03.014",
+    "descricao": "GERENCIAMENTO E ARMAZENAMENTO DE ARQUIVOS",
+    "saldo_anterior": "49.760,74",
+    "valor_debito": "6.681,58",
+    "valor_credito": "0,00",
+    "saldo_atual": "56.442,32"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "109305",
+    "conta": "3.2.1.30.03.015",
+    "descricao": "MEDICINA DO TRABALHO",
+    "saldo_anterior": "20.574,00",
+    "valor_debito": "5.200,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "25.774,00"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107803",
+    "conta": "3.2.1.30.07",
+    "descricao": "BENS E BENFEITORIAS ADQUIRIDOS COM REC. CONTRATO DE",
+    "saldo_anterior": "47.620,56",
+    "valor_debito": "221.577,11",
+    "valor_credito": "155.103,98",
+    "saldo_atual": "114.093,69"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107618",
+    "conta": "3.2.1.30.07.001",
+    "descricao": "AQUISICAO DE BENS",
+    "saldo_anterior": "47.620,56",
+    "valor_debito": "221.577,11",
+    "valor_credito": "155.103,98",
+    "saldo_atual": "114.093,69"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107786",
+    "conta": "3.2.1.40",
+    "descricao": "DESPESAS OPERACIONAIS",
+    "saldo_anterior": "43.579.167,24",
+    "valor_debito": "5.667.981,06",
+    "valor_credito": "504.092,61",
+    "saldo_atual": "48.743.055,69"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107804",
+    "conta": "3.2.1.40.01",
+    "descricao": "REMUNERAÇAO COM PESSOAL PROPRIO",
+    "saldo_anterior": "4.997.123,84",
+    "valor_debito": "686.461,14",
+    "valor_credito": "34.510,72",
+    "saldo_atual": "5.649.074,26"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107620",
+    "conta": "3.2.1.40.01.001",
+    "descricao": "SALARIOS E ORDENADOS",
+    "saldo_anterior": "3.544.395,31",
+    "valor_debito": "485.243,94",
+    "valor_credito": "25.896,40",
+    "saldo_atual": "4.003.742,85"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107621",
+    "conta": "3.2.1.40.01.002",
+    "descricao": "RESCISAO TRABALHISTA",
+    "saldo_anterior": "596.499,58",
+    "valor_debito": "89.914,72",
+    "valor_credito": "8.614,32",
+    "saldo_atual": "677.799,98"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107622",
+    "conta": "3.2.1.40.01.003",
+    "descricao": "ADICIONAIS (FUNÇAO / OUTROS)",
+    "saldo_anterior": "794.251,45",
+    "valor_debito": "102.427,96",
+    "valor_credito": "0,00",
+    "saldo_atual": "896.679,41"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107623",
+    "conta": "3.2.1.40.01.004",
+    "descricao": "HORA EXTRA",
+    "saldo_anterior": "61.977,50",
+    "valor_debito": "8.874,52",
+    "valor_credito": "0,00",
+    "saldo_atual": "70.852,02"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107805",
+    "conta": "3.2.1.40.03",
+    "descricao": "ENCARGOS SOCIAIS",
+    "saldo_anterior": "355.792,99",
+    "valor_debito": "42.269,39",
+    "valor_credito": "0,00",
+    "saldo_atual": "398.062,38"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107808",
+    "conta": "3.2.1.40.03.002",
+    "descricao": "FGTS S/ FOLHA DO MES",
+    "saldo_anterior": "355.792,99",
+    "valor_debito": "42.269,39",
+    "valor_credito": "0,00",
+    "saldo_atual": "398.062,38"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107913",
+    "conta": "3.2.1.40.05",
+    "descricao": "BENEFICIOS SOCIAIS",
+    "saldo_anterior": "154.006,29",
+    "valor_debito": "22.547,61",
+    "valor_credito": "7.532,33",
+    "saldo_atual": "169.021,57"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107806",
+    "conta": "3.2.1.40.05.001",
+    "descricao": "VALE TRANSPORTE",
+    "saldo_anterior": "154.006,29",
+    "valor_debito": "22.547,61",
+    "valor_credito": "7.532,33",
+    "saldo_atual": "169.021,57"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107914",
+    "conta": "3.2.1.40.07",
+    "descricao": "PROVISOES TRABALHISTAS",
+    "saldo_anterior": "756.768,80",
+    "valor_debito": "110.998,09",
+    "valor_credito": "2.390,21",
+    "saldo_atual": "865.376,68"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107812",
+    "conta": "3.2.1.40.07.001",
+    "descricao": "PROVISAO DE FERIAS E ENCARGOS",
+    "saldo_anterior": "443.998,03",
+    "valor_debito": "66.648,01",
+    "valor_credito": "2.390,21",
+    "saldo_atual": "508.255,83"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107813",
+    "conta": "3.2.1.40.07.002",
+    "descricao": "PROVISAO DE 13 SALARIO E ENCARGOS",
+    "saldo_anterior": "312.770,77",
+    "valor_debito": "44.350,08",
+    "valor_credito": "0,00",
+    "saldo_atual": "357.120,85"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107915",
+    "conta": "3.2.1.40.09",
+    "descricao": "ALUGUEIS OPERACIONAIS",
+    "saldo_anterior": "665.341,37",
+    "valor_debito": "92.606,65",
+    "valor_credito": "2.474,68",
+    "saldo_atual": "755.473,34"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107814",
+    "conta": "3.2.1.40.09.001",
+    "descricao": "LOCAÇAO DE EQUIPAMENTOS",
+    "saldo_anterior": "665.341,37",
+    "valor_debito": "92.606,65",
+    "valor_credito": "2.474,68",
+    "saldo_atual": "755.473,34"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107916",
+    "conta": "3.2.1.40.11",
+    "descricao": "SERVIÇOS CONTRATADOS",
+    "saldo_anterior": "34.181.084,00",
+    "valor_debito": "4.370.351,29",
+    "valor_credito": "457.184,67",
+    "saldo_atual": "38.094.250,62"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107820",
+    "conta": "3.2.1.40.11.004",
+    "descricao": "SERVIÇOS DE VIGILANCIA",
+    "saldo_anterior": "604.331,28",
+    "valor_debito": "85.298,59",
+    "valor_credito": "384,43",
+    "saldo_atual": "689.245,44"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107822",
+    "conta": "3.2.1.40.11.006",
+    "descricao": "SERVIÇOS DE CONSULTORIA",
+    "saldo_anterior": "0,00",
+    "valor_debito": "9.000,00",
+    "valor_credito": "1.200,00",
+    "saldo_atual": "7.800,00"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107823",
+    "conta": "3.2.1.40.11.007",
+    "descricao": "SERVIÇOS DE TI/SOFTWARE",
+    "saldo_anterior": "1.214.524,16",
+    "valor_debito": "273.730,91",
+    "valor_credito": "91.755,73",
+    "saldo_atual": "1.396.499,34"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107824",
+    "conta": "3.2.1.40.11.008",
+    "descricao": "SERVIÇOS DE APOIO ADMINISTRATIVO",
+    "saldo_anterior": "450.558,34",
+    "valor_debito": "88.320,17",
+    "valor_credito": "14.564,64",
+    "saldo_atual": "524.313,87"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107825",
+    "conta": "3.2.1.40.11.009",
+    "descricao": "SERVIÇOS DE COMUNICAO E MARKETING",
+    "saldo_anterior": "31.620,00",
+    "valor_debito": "6.000,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "37.620,00"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107826",
+    "conta": "3.2.1.40.11.010",
+    "descricao": "SERVIÇOS GRÁFICOS",
+    "saldo_anterior": "2.019,00",
+    "valor_debito": "60,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "2.079,00"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107827",
+    "conta": "3.2.1.40.11.011",
+    "descricao": "SERVIÇOS DE HONORÁRIOS MÉDICOS",
+    "saldo_anterior": "28.888.439,96",
+    "valor_debito": "3.425.038,86",
+    "valor_credito": "346.629,71",
+    "saldo_atual": "31.966.849,11"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107828",
+    "conta": "3.2.1.40.11.012",
+    "descricao": "SERVIÇO DE LABORATÓRIO E RADIOTERAPIA",
+    "saldo_anterior": "1.539.383,75",
+    "valor_debito": "301.242,86",
+    "valor_credito": "0,00",
+    "saldo_atual": "1.840.626,61"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107830",
+    "conta": "3.2.1.40.11.014",
+    "descricao": "SERVIÇO DE ENGENHARIA CLINICA",
+    "saldo_anterior": "42.766,67",
+    "valor_debito": "700,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "43.466,67"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107831",
+    "conta": "3.2.1.40.11.015",
+    "descricao": "SERVIÇO DE LAVANDERIA",
+    "saldo_anterior": "859.360,22",
+    "valor_debito": "113.400,00",
+    "valor_credito": "2.650,16",
+    "saldo_atual": "970.110,06"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107832",
+    "conta": "3.2.1.40.11.016",
+    "descricao": "SERVIÇO DE ESTERILIZAÇÃO",
+    "saldo_anterior": "547.250,00",
+    "valor_debito": "67.500,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "614.750,00"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107835",
+    "conta": "3.2.1.40.11.019",
+    "descricao": "OUTROS SERVIÇOS",
+    "saldo_anterior": "830,62",
+    "valor_debito": "59,90",
+    "valor_credito": "0,00",
+    "saldo_atual": "890,52"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107917",
+    "conta": "3.2.1.40.13",
+    "descricao": "MANUTENÇAO",
+    "saldo_anterior": "60.616,00",
+    "valor_debito": "2.832,29",
+    "valor_credito": "0,00",
+    "saldo_atual": "63.448,29"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107836",
+    "conta": "3.2.1.40.13.001",
+    "descricao": "MANUTENÇAO PREDIAL",
+    "saldo_anterior": "60.616,00",
+    "valor_debito": "722,25",
+    "valor_credito": "0,00",
+    "saldo_atual": "61.338,25"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107837",
+    "conta": "3.2.1.40.13.002",
+    "descricao": "MANUTENÇAO VEICULAR",
+    "saldo_anterior": "0,00",
+    "valor_debito": "2.110,04",
+    "valor_credito": "0,00",
+    "saldo_atual": "2.110,04"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107918",
+    "conta": "3.2.1.40.15",
+    "descricao": "DESPESAS DE APOIO ADMINISTRATIVO",
+    "saldo_anterior": "378.924,22",
+    "valor_debito": "68.291,56",
+    "valor_credito": "0,00",
+    "saldo_atual": "447.215,78"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107839",
+    "conta": "3.2.1.40.15.001",
+    "descricao": "MATERIAL DE EXPEDIENTE",
+    "saldo_anterior": "259.003,58",
+    "valor_debito": "53.197,37",
+    "valor_credito": "0,00",
+    "saldo_atual": "312.200,95"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107841",
+    "conta": "3.2.1.40.15.003",
+    "descricao": "TAXAS CARTORIAL E JUDICIAL",
+    "saldo_anterior": "12.130,77",
+    "valor_debito": "13.091,26",
+    "valor_credito": "0,00",
+    "saldo_atual": "25.222,03"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107843",
+    "conta": "3.2.1.40.15.005",
+    "descricao": "CORRESPONDENCIAS/FRETES/CONDUCAO",
+    "saldo_anterior": "85.146,81",
+    "valor_debito": "477,61",
+    "valor_credito": "0,00",
+    "saldo_atual": "85.624,42"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107845",
+    "conta": "3.2.1.40.15.007",
+    "descricao": "COMBUSTÍVEIS E LUBRIFICANTES",
+    "saldo_anterior": "22.437,00",
+    "valor_debito": "1.331,32",
+    "valor_credito": "0,00",
+    "saldo_atual": "23.768,32"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107846",
+    "conta": "3.2.1.40.15.008",
+    "descricao": "CONTRIBUIÇÕES ASSOCIATIVAS",
+    "saldo_anterior": "206,06",
+    "valor_debito": "194,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "400,06"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107920",
+    "conta": "3.2.1.40.19",
+    "descricao": "RATEIO DESPESAS ADMINISTRATIVAS ART 7 E 7A LEI 15.503 / 3%",
+    "saldo_anterior": "2.036.916,38",
+    "valor_debito": "271.623,04",
+    "valor_credito": "0,00",
+    "saldo_atual": "2.308.539,42"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107857",
+    "conta": "3.2.1.40.19.005",
+    "descricao": "SERVIÇOS - RATEIO ENTRE UNIDADES",
+    "saldo_anterior": "515.231,72",
+    "valor_debito": "54.918,19",
+    "valor_credito": "0,00",
+    "saldo_atual": "570.149,91"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107858",
+    "conta": "3.2.1.40.19.006",
+    "descricao": "MATERIAIS - RATEIO ENTRE UNIDADES",
+    "saldo_anterior": "4.634,25",
+    "valor_debito": "339,88",
+    "valor_credito": "0,00",
+    "saldo_atual": "4.974,13"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107859",
+    "conta": "3.2.1.40.19.007",
+    "descricao": "PESSOAL E ENCARGOS - RATEIO ENTRE UNIDADES",
+    "saldo_anterior": "1.517.050,41",
+    "valor_debito": "216.364,97",
+    "valor_credito": "0,00",
+    "saldo_atual": "1.733.415,38"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107921",
+    "conta": "3.2.1.40.21",
+    "descricao": "DESPESAS BANCARIAS E FINANCEIRAS",
+    "saldo_anterior": "-7.406,65",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "-7.406,65"
+  },
+  {
+    "tipo": "conta",
+    "reduzido": "107860",
+    "conta": "3.2.1.40.21.001",
+    "descricao": "DESPESAS BANCARIAS",
+    "saldo_anterior": "-7.406,65",
+    "valor_debito": "0,00",
+    "valor_credito": "0,00",
+    "saldo_atual": "-7.406,65"
+  }
+]
